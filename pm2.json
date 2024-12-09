@@ -1,0 +1,9 @@
+{
+    "apps": [
+      {
+        "name": "JAK",
+        "script": "start.sh",
+        "cron_restart": "0 */24 * * *",
+        "autorestart": false
+      }]
+  }
